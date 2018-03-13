@@ -1,7 +1,7 @@
 # Compiled class file
 *.class
 
-# Target forlder
+# Target folder
 client/target/
 client/!.mvn/wrapper/maven-wrapper.jar
 
